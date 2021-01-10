@@ -34,7 +34,7 @@ body {
 .footer {
     width: 100%;
     height:4%;
-    position: sticky;
+    position: fixed;
     bottom:0;
     background: darkslategrey;
 }
@@ -42,7 +42,7 @@ body {
 .portfooter {
     width: 100%;
     height: 4%;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     background: darkslategrey;
 }
@@ -88,5 +88,9 @@ body {
 .btn {
     background-color: white;
     margin-top: 5px;
+}
+
+.push {
+    height: 25vh;
 }
 
