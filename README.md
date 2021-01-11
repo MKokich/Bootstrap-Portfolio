@@ -18,7 +18,7 @@ https://mkokich.github.io/Bootstrap-Portfolio/
 
 ## Screenshots of Pages
 
-![Aboutme](assets/aboutme.png)
+![Alt text](assets/aboutme.png "Optional Title")
 
 ![Portfolio](assets/portfolio.png)
 
