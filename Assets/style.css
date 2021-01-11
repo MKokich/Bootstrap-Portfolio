@@ -12,8 +12,6 @@ a:hover {
     
 }
 
-
-
 body {
     background-image: url(image.jpg);
     background-size: cover;
@@ -91,6 +89,6 @@ body {
 }
 
 .push {
-    height: 25vh;
+    height: 30vh;
 }
 
