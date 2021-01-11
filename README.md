@@ -18,11 +18,11 @@ https://mkokich.github.io/Bootstrap-Portfolio/
 
 ## Screenshots of Pages
 
-![Alt text](./assets/aboutme.png "About")
+![image](./assets/aboutme.png "About")
 
-![Alt text](./assets/portfolio.png "Portfolio")
+![image](./assets/portfolio.png "Portfolio")
 
-![Alt text](./assets/contact.png "Contact")
+![image](./assets/contact.png "Contact")
 
 
 
